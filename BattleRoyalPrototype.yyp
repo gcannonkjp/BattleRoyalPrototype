@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "418198cc-2e46-40bf-86d7-4eb36c9e0164",
-            "Value": {
-                "id": "f4646e1c-a602-4162-ab7a-d7b0a4f5bea7",
-                "resourcePath": "objects\\obj_Player_Sniper\\obj_Player_Sniper.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "48868286-5beb-4bdc-8591-42d960628016",
             "Value": {
                 "id": "0a923b1b-30a8-458d-ac8c-2f38db0eae04",
@@ -76,14 +68,6 @@
                 "id": "dfaf4f82-3b9e-4a37-a17a-596f798a8867",
                 "resourcePath": "sprites\\spr_background\\spr_background.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "67de89dd-be8c-4afb-b3c8-0c5fb74a25aa",
-            "Value": {
-                "id": "575e354d-7ff4-4803-aa49-936445c55b81",
-                "resourcePath": "objects\\obj_Player_Heavy\\obj_Player_Heavy.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -199,14 +183,6 @@
             }
         },
         {
-            "Key": "c84f01cb-a1ac-403b-ba71-4539c7232fbe",
-            "Value": {
-                "id": "eba90e97-6e02-45ee-8502-5dbc2530f332",
-                "resourcePath": "objects\\obj_Player_Scout\\obj_Player_Scout.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "da2e0c2d-793d-4b40-a0b5-2ad7f1a5a5a1",
@@ -282,7 +258,7 @@
             "Key": "f903f3ab-7713-4450-9bb5-d2d469ff7f4e",
             "Value": {
                 "id": "cb303a2e-ec29-49ad-9fea-47fc9f75f65f",
-                "resourcePath": "objects\\obj_Player_Assault\\obj_Player_Assault.yy",
+                "resourcePath": "objects\\obj_Player\\obj_Player.yy",
                 "resourceType": "GMObject"
             }
         }
